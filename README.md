@@ -12,6 +12,7 @@ Welcome to this beginner-friendly guide to **Git** and **GitHub**. This reposito
 - Working with branches
 - Collaborating via GitHub
 - Other useful Git features
+- Open source contribution
 
 ---
 
@@ -85,11 +86,4 @@ git reset --hard  # Discard all local changes
 Feel free to fork this repository and create pull requests. Contributions are welcome!
 
 ---
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 Happy coding! 💻✨
